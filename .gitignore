@@ -1,0 +1,9 @@
+Debug
+Release
+.vs
+*.aps
+*.obj
+*.iobj
+*.pdb
+*.idb
+*.ilk
